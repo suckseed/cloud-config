@@ -1,2 +1,2 @@
-# cloudcongfig
+# cloud-config
 beecloud config
